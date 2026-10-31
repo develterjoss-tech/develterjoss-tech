@@ -57,7 +57,7 @@ A web platform built with Django for appointment management and scheduling.
 
 - 💼 [LinkedIn](YOUR_LINKEDIN_URL)
 - 💻 [GitHub](https://github.com/develterjoss-tech)
-- 📧 Email: develter.joss@gmail.com
+
 
 ---
 ⭐ Feel free to explore my repositories!
