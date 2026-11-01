@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Joss Develter
 
 🎓 Mathematics & Computer Science background  
-🤖 GenAI Data Scientist Apprentice @ Société Générale Assurances  
+🤖 GenAI Data Scientist Apprentice @ Société Générale Insurance
 💻 Passionate about Machine Learning, Computer Vision & Generative AI
 
 ---
@@ -18,7 +18,6 @@ A web platform built with Django for appointment management and scheduling.
 
 ## 🎓 Background
 
-- Data Scientist Apprentice @ Société Générale Assurances
 - 1 year of professional experience in Computer Vision
 - Background in Mathematics and Computer Science (Sorbonne University)
 - Currently specializing in NLP and Generative AI
