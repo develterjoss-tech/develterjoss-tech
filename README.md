@@ -2,7 +2,6 @@
 
 🎓 Mathematics & Computer Science background  
 🤖 GenAI Data Scientist Apprentice @ Société Générale Insurance 
-
 💻 Passionate about Machine Learning, Computer Vision & Generative AI
 
 ---
