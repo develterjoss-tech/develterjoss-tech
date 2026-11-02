@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Joss Develter
 
 🎓 Mathematics & Computer Science background  
-🤖 GenAI Data Scientist Apprentice @ Société Générale Insurance
+🤖 GenAI Data Scientist Apprentice @ Société Générale Insurance 
+
 💻 Passionate about Machine Learning, Computer Vision & Generative AI
 
 ---
