@@ -6,7 +6,13 @@
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
+
+### Telco Churn - Reproducible ML Pipeline
+
+A customer churn project built to be reproducible: data inspection report with source hash, model comparison against a baseline, saved pipeline with metadata, and checks on reloading and data leakage. Python, uv, scikit-learn.
+
+🔗 [GitHub Repository](https://github.com/develterjoss-tech/telco-churn)
 
 ### Django Appointment Booking Platform
 
@@ -14,7 +20,6 @@ A web platform built with Django for appointment management and scheduling.
 
 🔗 [GitHub Repository](https://github.com/develterjoss-tech/plateforme-rdv-django)
 
----
 
 ## 🎓 Background
 
